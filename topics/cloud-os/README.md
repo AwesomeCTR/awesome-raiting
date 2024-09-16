@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_cloud-os
+# Awesome Repositories Topic: cloud-os
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [HeyPuter/puter](https://github.com/HeyPuter/puter) | 24797 | 1601 | 📝: 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. |

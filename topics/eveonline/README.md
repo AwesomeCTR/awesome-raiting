@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_eveonline
+# Awesome Repositories Topic: eveonline
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [Arcitectus/Sanderling](https://github.com/Arcitectus/Sanderling) | 259 | 117 | 📝: APIs and libraries to read information directly from the EVE Online game client. |

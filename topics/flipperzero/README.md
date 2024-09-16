@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_flipperzero
+# Awesome Repositories Topic: flipperzero
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) | 18248 | 805 | 📝: 🐬 A collection of awesome resources for the Flipper Zero device. |

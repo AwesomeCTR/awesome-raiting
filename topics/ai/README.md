@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_ai
+# Awesome Repositories Topic: ai
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 166513 | 44064 | 📝: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. |

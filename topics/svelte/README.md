@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_svelte
+# Awesome Repositories Topic: svelte
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [storybookjs/storybook](https://github.com/storybookjs/storybook) | 83980 | 9230 | 📝: Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation |

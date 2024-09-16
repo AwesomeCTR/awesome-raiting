@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_cpp
+# Awesome Repositories Topic: cpp
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 197048 | 25676 | 📝: Curated list of project-based tutorials |

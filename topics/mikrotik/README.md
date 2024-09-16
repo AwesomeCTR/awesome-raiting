@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_mikrotik
+# Awesome Repositories Topic: mikrotik
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [pavel-odintsov/fastnetmon](https://github.com/pavel-odintsov/fastnetmon) | 3398 | 563 | 📝: FastNetMon - very fast DDoS sensor with sFlow/Netflow/IPFIX/SPAN support |

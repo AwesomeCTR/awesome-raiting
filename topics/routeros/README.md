@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_routeros
+# Awesome Repositories Topic: routeros
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [eworm-de/routeros-scripts](https://github.com/eworm-de/routeros-scripts) | 1270 | 286 | 📝: a collection of scripts for MikroTik RouterOS |

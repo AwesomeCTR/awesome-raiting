@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_electron
+# Awesome Repositories Topic: electron
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 162451 | 28624 | 📝: Visual Studio Code |

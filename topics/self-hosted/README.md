@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_self-hosted
+# Awesome Repositories Topic: self-hosted
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 194672 | 9459 | 📝: A list of Free Software network services and web applications which can be hosted on your own servers |

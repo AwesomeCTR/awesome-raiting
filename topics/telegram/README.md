@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_telegram
+# Awesome Repositories Topic: telegram
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | 32133 | 7144 | 📝: 🧡 Everything is RSSible |

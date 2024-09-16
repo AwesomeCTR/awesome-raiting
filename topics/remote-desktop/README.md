@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_remote-desktop
+# Awesome Repositories Topic: remote-desktop
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 72684 | 8592 | 📝: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |

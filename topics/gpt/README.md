@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_gpt
+# Awesome Repositories Topic: gpt
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 61824 | 31469 | 📝: 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ |

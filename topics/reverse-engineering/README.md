@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_reverse-engineering
+# Awesome Repositories Topic: reverse-engineering
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | 82781 | 8862 | 📝: A collection of various awesome lists for hackers, pentesters and security researchers |

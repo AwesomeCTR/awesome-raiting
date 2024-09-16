@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_eve-online
+# Awesome Repositories Topic: eve-online
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [pyfa-org/Pyfa](https://github.com/pyfa-org/Pyfa) | 1603 | 406 | 📝: Python fitting assistant, cross-platform fitting tool for EVE Online |

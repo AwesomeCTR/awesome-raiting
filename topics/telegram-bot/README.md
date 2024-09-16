@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_telegram-bot
+# Awesome Repositories Topic: telegram-bot
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) | 28087 | 6018 | 📝: Free, open source crypto trading bot |

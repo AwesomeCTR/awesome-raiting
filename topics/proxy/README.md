@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_proxy
+# Awesome Repositories Topic: proxy
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [fatedier/frp](https://github.com/fatedier/frp) | 84434 | 13164 | 📝: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. |

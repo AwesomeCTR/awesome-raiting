@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_solidity
+# Awesome Repositories Topic: solidity
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 24746 | 11751 | 📝: OpenZeppelin Contracts is a library for secure smart contract development. |

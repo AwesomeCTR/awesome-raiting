@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_mobaxterm
+# Awesome Repositories Topic: mobaxterm
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) | 3685 | 275 | 📝: MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】 |

@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_devops
+# Awesome Repositories Topic: devops
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 143541 | 9439 | 📝: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |

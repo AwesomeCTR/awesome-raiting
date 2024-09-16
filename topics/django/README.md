@@ -1,4 +1,4 @@
-# Awesome Repositories: topic_django
+# Awesome Repositories Topic: django
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [django/django](https://github.com/django/django) | 79185 | 31571 | 📝: The Web framework for perfectionists with deadlines. |
