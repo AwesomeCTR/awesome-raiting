@@ -2,7 +2,6 @@
  | Repository | Stars | Forks | Description |
 ---|---|---|----------------|
 | [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) | 3685 | 275 | 📝: MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】 |
-| [Aetherinox/mobaxterm-utility](https://github.com/Aetherinox/mobaxterm-utility) | 58 | 9 | 📝: A C# utility for Moba. It is to be utilized for demonstrational and educational purposes related to bettering software.  |
 | [h0ny/MobaXtermDecryptor](https://github.com/h0ny/MobaXtermDecryptor) | 33 | 3 | 📝: A simple MobaXterm password extraction tool. |
 | [dracula/mobaxterm](https://github.com/dracula/mobaxterm) | 33 | 5 | 📝: 🧛🏻‍♂️ Dark theme for MobaXterm |
 | [SeokjuLee/terminal-setup](https://github.com/SeokjuLee/terminal-setup) | 23 | 2 | 📝: Default settings for MobaXterm, tmux, XServer, SSH, caja, etc. |
